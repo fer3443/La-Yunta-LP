@@ -54,7 +54,7 @@ export function AboutUs() {
               somos familia
             </h2>
             <p className="text-muted-foreground text-lg mb-6 text-pretty">
-              Fundada en 2010, VetCare nació de la pasión por los animales y el compromiso de ofrecer atención
+              Fundada en 2010, La Yunta nació de la pasión por los animales y el compromiso de ofrecer atención
               veterinaria de excelencia. Nuestro equipo de profesionales está dedicado a brindar el mejor cuidado
               posible a cada mascota que cruza nuestras puertas.
             </p>

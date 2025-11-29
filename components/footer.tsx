@@ -36,7 +36,7 @@ export function Footer() {
           <div className="lg:col-span-2">
             <Link href="#inicio" className="flex items-center gap-2 mb-4">
               <PawPrint className="h-8 w-8 text-primary" />
-              <span className="font-serif text-2xl font-semibold">VetCare</span>
+              <span className="font-serif text-2xl font-semibold">La Yunta</span>
             </Link>
             <p className="text-background/70 max-w-sm mb-6">
               Cuidamos de tu mascota como si fuera nuestra. Más de 15 años brindando atención veterinaria de excelencia.
@@ -88,7 +88,7 @@ export function Footer() {
 
         <div className="border-t border-background/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-background/60 text-sm">
-            © {new Date().getFullYear()} VetCare. Todos los derechos reservados.
+            © {new Date().getFullYear()} La Yunta. Todos los derechos reservados.
           </p>
           <div className="flex gap-6 text-sm text-background/60">
             <Link href="#" className="hover:text-background transition-colors">

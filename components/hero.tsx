@@ -33,7 +33,7 @@ export function Hero() {
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8 text-pretty">
-              En VetCare tratamos a cada mascota como si fuera nuestra. Servicios veterinarios profesionales con la
+              En La Yunta tratamos a cada mascota como si fuera nuestra. Servicios veterinarios profesionales con la
               calidez que tu compañero merece.
             </p>
 
