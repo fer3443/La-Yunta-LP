@@ -101,9 +101,9 @@ export function Schedule() {
                   <div>
                     <h3 className="font-semibold mb-1">Ubicación</h3>
                     <p className="text-muted-foreground">
-                      Av. Principal 123, Col. Centro
+                      Frías Silva 620
                       <br />
-                      Ciudad de México, CP 06000
+                      Yerba Buena, Tucumán, CP 4107
                     </p>
                   </div>
                 </div>
