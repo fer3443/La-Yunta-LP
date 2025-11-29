@@ -20,7 +20,7 @@ const testimonials = [
     pet: "Dueño de Luna (Gata Persa)",
     avatar: "/latino-man-smiling-portrait.png",
     rating: 5,
-    text: "Llevo a Luna a VetCare desde hace 5 años. Siempre me han dado un trato excepcional y las instalaciones son impecables. 100% recomendado.",
+    text: "Llevo a Luna a La Yunta desde hace 5 años. Siempre me han dado un trato excepcional y las instalaciones son impecables. 100% recomendado.",
   },
   {
     name: "Ana Rodríguez",

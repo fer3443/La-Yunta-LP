@@ -29,7 +29,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="#inicio" className="flex items-center gap-2">
             <PawPrint className="h-8 w-8 text-primary" />
-            <span className="font-serif text-xl md:text-2xl font-semibold text-foreground">VetCare</span>
+            <span className="font-serif text-xl md:text-2xl font-semibold text-foreground">La Yunta</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">

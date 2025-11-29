@@ -113,7 +113,7 @@ export function Schedule() {
             <div className="aspect-video rounded-xl overflow-hidden">
               <Image
                 src="/modern-veterinary-clinic-exterior-building-facade.jpg"
-                alt="Exterior de la clínica VetCare"
+                alt="Exterior de la clínica La Yunta"
                 width={550}
                 height={550}
                 className="w-full h-full object-cover"

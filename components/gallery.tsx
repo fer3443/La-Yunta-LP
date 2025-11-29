@@ -67,7 +67,7 @@ export function Gallery() {
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-medium mt-3 mb-6 text-balance">
             Momentos especiales
             <br />
-            en VetCare
+            en La Yunta
           </h2>
         </motion.div>
 
