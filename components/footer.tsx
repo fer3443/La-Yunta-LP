@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { PawPrint, Facebook } from "lucide-react"
+import { PawPrint } from "lucide-react"
 import { FaInstagram, FaFacebook } from "react-icons/fa";
 
 
@@ -43,7 +43,8 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <Link
-                href="#"
+                href="https://www.instagram.com/veterinarialayuntatuc/"
+                target="_blank"
                 className="p-2 bg-background/10 rounded-full hover:bg-background/20 transition-colors"
                 aria-label="Instagram"
               >
@@ -51,10 +52,11 @@ export function Footer() {
               </Link>
               <Link
                 href="#"
+                target="_blank"
                 className="p-2 bg-background/10 rounded-full hover:bg-background/20 transition-colors"
                 aria-label="Facebook"
               >
-                <FaFacebook className="h-5 w-5"/>
+                <FaFacebook className="h-5 w-5" />
               </Link>
             </div>
           </div>
